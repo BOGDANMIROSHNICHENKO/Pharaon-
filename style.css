@@ -153,6 +153,17 @@
 
 }
 @media(min-width:1920px){
+    .content__img_3 img{
+    border-radius: 20px;
+    position: absolute;
+    top:1300px ;
+  }
+  .content__img_3 h3{
+    left: 100px;
+    position: absolute;
+    top:1450px;
+    color: #fff;
+  }
     .content__play a{
         text-decoration: none;
         color: #fff;
